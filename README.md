@@ -50,6 +50,7 @@ The following are required to run Open Gamepad UI:
 - mangoapp (optional)
 - wireplumber (optional)
 - nmcli (optional)
+- bluez-utils (optional)
 - firejail (optional)
 
 ## Installation
